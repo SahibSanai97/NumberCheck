@@ -1,0 +1,15 @@
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\bin\Debug\net6.0\ChechNumber.exe
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\bin\Debug\net6.0\ChechNumber.deps.json
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\bin\Debug\net6.0\ChechNumber.runtimeconfig.json
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\bin\Debug\net6.0\ChechNumber.dll
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\bin\Debug\net6.0\ChechNumber.pdb
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.csproj.AssemblyReference.cache
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.AssemblyInfoInputs.cache
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.AssemblyInfo.cs
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.csproj.CoreCompileInputs.cache
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.dll
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\refint\ChechNumber.dll
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.pdb
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ChechNumber.genruntimeconfig.cache
+C:\Users\sahib.sanai\RiderProjects\ChechNumber\ChechNumber\obj\Debug\net6.0\ref\ChechNumber.dll
