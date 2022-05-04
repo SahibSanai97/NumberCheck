@@ -29,5 +29,4 @@ while (true)
         i = i * 10;
     }
 }
-
 Console.ReadKey();
